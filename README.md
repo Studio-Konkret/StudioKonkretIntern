@@ -1,2 +1,4 @@
-# StudioKonkretIntern
-All information in regards to studio konkret 
+# Välkommen till Studio Konkret
+Här hittar du viktiga länkar telefonnummer etc
+
+
