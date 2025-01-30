@@ -1,4 +1,4 @@
 # Välkommen till Studio Konkret
-Här hittar du viktiga länkar telefonnummer etc
+[Här](https://github.com/Studio-Konkret/StudioKonkretIntern/wiki) hittar du viktiga länkar telefonnummer etc
 
 
